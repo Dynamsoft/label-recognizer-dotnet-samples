@@ -18,7 +18,7 @@ namespace HelloWorld
 		// The string "DLS2eyJvcmdhbml6YXRpb25JRCI6IjIwMDAwMSJ9" here is a free public trial license. Note that network connection is required for this license to work.
 		// If you want to use an offline license, please contact Dynamsoft Support: https://www.dynamsoft.com/company/contact/
 		// You can also request a 30-day trial license in the customer portal: https://www.dynamsoft.com/customer/license/trialLicense?product=dlr&utm_source=github&package=dotnet
-                LabelRecognizer.InitLicense("DLS2eyJvcmdhbml6YXRpb25JRCI6IjIwMDAwMSIsInByb2R1Y3RzIjoyfQ==");
+                LabelRecognizer.InitLicense("DLS2eyJvcmdhbml6YXRpb25JRCI6IjIwMDAwMSJ9");
 
                 // 2.Create an instance of Label Recognizer.
                 LabelRecognizer dlr = new LabelRecognizer();
