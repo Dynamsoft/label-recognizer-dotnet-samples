@@ -10,7 +10,7 @@
   <ItemGroup>
     
     
-    <PackageReference Include="Dynamsoft.DotNet.LabelRecognizer.Bundle" Version="3.2.3100" />
+    <PackageReference Include="Dynamsoft.DotNet.LabelRecognizer.Bundle" Version="3.2.3200" />
     
     
     
